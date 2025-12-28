@@ -1,3 +1,5 @@
+Just Practical Purposes for more example, please visit **https://www.techcareer.net/courses/sifirdan-ileri-duzey-web-programlama-html-5-css-3-bootstrap5-tailwind-javascript/**
+
 # TechCareer-Bootstrap5-PracticalPurpose
 
 This repository contains a structured practice project focused on exploring and understanding **Bootstrap 5 components**. The project serves as a reference while learning Bootstrap and building familiarity with its core UI elements.
